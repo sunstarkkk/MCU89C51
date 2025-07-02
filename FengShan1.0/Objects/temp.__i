@@ -1,0 +1,1 @@
+"temp.c" OPTIMIZE (8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\temp.lst) OBJECT(.\Objects\temp.obj)

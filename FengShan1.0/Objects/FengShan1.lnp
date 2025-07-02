@@ -1,0 +1,6 @@
+".\Objects\main.obj",
+".\Objects\temp.obj",
+".\Objects\key.obj",
+".\Objects\delay.obj" 
+TO ".\Objects\FengShan1.0" 
+PRINT(".\Listings\FengShan1.m51")
